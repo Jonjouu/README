@@ -8,3 +8,12 @@ I'm a passionate programmer with 2 years of experience in Lua and 1 year in Pyth
 👯 I’m looking to collaborate on: Open-source Lua or Python projects
 📫 How to reach me: [Discord : notjonjouu]
 😄 Pronouns: [He/Him]
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@Jonjouu"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/4mm4q2NNkV"><img width="32px" alt="Discord Server" title="Discord Server" src="https://imgur.com/INRJRUh.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+</p>
