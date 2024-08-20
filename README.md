@@ -15,5 +15,4 @@ I'm a passionate programmer with 2 years of experience in Lua and 1 year in Pyth
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/4mm4q2NNkV"><img width="32px" alt="Discord Server" title="Discord Server" src="https://imgur.com/qGIQSGW.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
